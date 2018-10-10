@@ -1,0 +1,17 @@
+
+<div style="width:80%; align-items:center; text-align:center">
+
+<div class="zoom-gallery">
+	<form name="myform" method="POST" action="../connect.php">
+		<div>
+				{% for item in images %}
+					<a class="image-source-link" href="{{ item.way_full }}" target="_blank">
+						<img src="{{ item.way_small }}" style="margin: 20px">
+					</a>
+				{% endfor %}
+			</div>
+	</form>
+</div>
+</div>
+<div id="gallery" style="width:60%; align-items:center; text-align:center">
+</div>
