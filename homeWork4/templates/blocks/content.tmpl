@@ -1,0 +1,20 @@
+
+<div style="width:80%; align-items:center; text-align:center">
+
+<div class="zoom-gallery">
+	<div id="content">
+	<form name="myform" method="POST" action="../config/database.php">
+		<div id="container">
+			{% for img in images %}
+				<a class="image-source-link" href="{{ img.full_src }}" target="_blank">
+					<img src="{{ img.small_src }}" style="margin: 20px">
+				</a>
+			{% endfor %}
+		</div>
+	</form>
+	<input id="show_more" offset='6' count_show="{{ count_show }}" count_add="3" type="button" value="NEXT" />
+</div>
+</div>
+</div>
+<div id="gallery" style="width:60%; align-items:center; text-align:center">
+</div>
