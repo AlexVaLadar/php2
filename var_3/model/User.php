@@ -36,7 +36,7 @@
 
 			if ($user) {
 				if ($user['password'] == parent::password($user['name'], strip_tags($password))) {
-    				$_SESSION['id_user'] = $user['id'];
+    				$_SESSION["id_user"] = $user['id'];
     				return 'Добро пожаловать в систему, ' . $user['name'] . '!';
 				} else {
 					return 'Пароль не верный!';
@@ -50,7 +50,7 @@
 			
 			if (isset($_SESSION["id_user"])) {
 				unset($_SESSION["id_user"]);
-				session_destroy();
+				session_register_shutdown();
 				return true;
 			} else {
 				return false;

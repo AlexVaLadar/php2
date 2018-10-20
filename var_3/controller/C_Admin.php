@@ -2,7 +2,7 @@
 
 	class C_Admin extends C_Base {
 		
-		public function action_orders() {
-			
+		public function action_orders($data) {
+			return [];
 		}
 	}

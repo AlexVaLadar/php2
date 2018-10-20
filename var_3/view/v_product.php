@@ -15,7 +15,7 @@
 		if ($user_id) {
 			echo "<input type='button' id='buy' value='Купить'>
 			<div id='buying_form'>
-				<span>Какое количество товара?</span>
+				<span>Количество товара</span>
 				<form method='post' name='buying_form'>
 					<input type='number' name='count' required>
 					<input type='submit' name='button' value='Добавить в корзину'>
@@ -24,4 +24,4 @@
 		}
 	?>
 </div>
-<?php if(isset($text)){echo "<script>document.write('$text')</script>";}?>
+<?php if(isset($text)){echo "<script>document.write('$text')</script>";} ?>
