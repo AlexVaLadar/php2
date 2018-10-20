@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Хост: 127.0.0.1:3306
--- Время создания: Окт 17 2018 г., 15:02
+-- Время создания: Окт 20 2018 г., 15:38
 -- Версия сервера: 5.6.38
 -- Версия PHP: 5.5.38
 
@@ -56,36 +56,36 @@ INSERT INTO `good` (`id`, `title`, `description`, `price`, `full_src`, `small_sr
 (10, 'Pinarello4', 'additional content', 4000, 'img/item4.jpg', 'img/small/item4.jpg', 1, 0),
 (11, 'Pinarello5', 'additional content', 4000, 'img/item5.jpg', 'img/small/item5.jpg', 1, 0),
 (12, 'Pinarello6', 'additional content', 4000, 'img/item6.jpg', 'img/small/item6.jpg', 1, 0),
-(13, 'Pinarello1', 'additional content', 4000, 'img/item1.jpg', 'img/small/item1.jpg', 1, 0),
-(14, 'Pinarello2', 'additional content', 4000, 'img/item2.jpg', 'img/small/item2.jpg', 1, 0),
-(15, 'Pinarello3', 'additional content', 4000, 'img/item3.jpg', 'img/small/item3.jpg', 1, 0),
-(16, 'Pinarello4', 'additional content', 4000, 'img/item4.jpg', 'img/small/item4.jpg', 1, 0),
-(17, 'Pinarello5', 'additional content', 4000, 'img/item5.jpg', 'img/small/item5.jpg', 1, 0),
-(18, 'Pinarello6', 'additional content', 4000, 'img/item6.jpg', 'img/small/item6.jpg', 1, 0),
-(19, 'Pinarello1', 'additional content', 4000, 'img/item1.jpg', 'img/small/item1.jpg', 1, 0),
-(20, 'Pinarello2', 'additional content', 4000, 'img/item2.jpg', 'img/small/item2.jpg', 1, 0),
-(21, 'Pinarello3', 'additional content', 4000, 'img/item3.jpg', 'img/small/item3.jpg', 1, 0),
-(22, 'Pinarello4', 'additional content', 4000, 'img/item4.jpg', 'img/small/item4.jpg', 1, 0),
-(23, 'Pinarello5', 'additional content', 4000, 'img/item5.jpg', 'img/small/item5.jpg', 1, 0),
-(24, 'Pinarello6', 'additional content', 4000, 'img/item6.jpg', 'img/small/item6.jpg', 1, 0),
-(25, 'Pinarello1', 'additional content', 4000, 'img/item1.jpg', 'img/small/item1.jpg', 1, 0),
-(26, 'Pinarello2', 'additional content', 4000, 'img/item2.jpg', 'img/small/item2.jpg', 1, 0),
-(27, 'Pinarello3', 'additional content', 4000, 'img/item3.jpg', 'img/small/item3.jpg', 1, 0),
-(28, 'Pinarello4', 'additional content', 4000, 'img/item4.jpg', 'img/small/item4.jpg', 1, 0),
-(29, 'Pinarello5', 'additional content', 4000, 'img/item5.jpg', 'img/small/item5.jpg', 1, 0),
-(30, 'Pinarello6', 'additional content', 4000, 'img/item6.jpg', 'img/small/item6.jpg', 1, 0),
-(31, 'Pinarello1', 'additional content', 4000, 'img/item1.jpg', 'img/small/item1.jpg', 1, 0),
-(32, 'Pinarello2', 'additional content', 4000, 'img/item2.jpg', 'img/small/item2.jpg', 1, 0),
-(33, 'Pinarello3', 'additional content', 4000, 'img/item3.jpg', 'img/small/item3.jpg', 1, 0),
-(34, 'Pinarello4', 'additional content', 4000, 'img/item4.jpg', 'img/small/item4.jpg', 1, 0),
-(35, 'Pinarello5', 'additional content', 4000, 'img/item5.jpg', 'img/small/item5.jpg', 1, 0),
-(36, 'Pinarello6', 'additional content', 4000, 'img/item6.jpg', 'img/small/item6.jpg', 1, 0),
-(37, 'Pinarello1', 'additional content', 4000, 'img/item1.jpg', 'img/small/item1.jpg', 1, 0),
-(38, 'Pinarello2', 'additional content', 4000, 'img/item2.jpg', 'img/small/item2.jpg', 1, 0),
-(39, 'Pinarello3', 'additional content', 4000, 'img/item3.jpg', 'img/small/item3.jpg', 1, 0),
-(40, 'Pinarello4', 'additional content', 4000, 'img/item4.jpg', 'img/small/item4.jpg', 1, 0),
-(41, 'Pinarello5', 'additional content', 4000, 'img/item5.jpg', 'img/small/item5.jpg', 1, 0),
-(42, 'Pinarello6', 'additional content', 4000, 'img/item6.jpg', 'img/small/item6.jpg', 1, 0);
+(13, 'Pinarello7', 'additional content', 4000, 'img/item1.jpg', 'img/small/item1.jpg', 1, 0),
+(14, 'Pinarello8', 'additional content', 4000, 'img/item2.jpg', 'img/small/item2.jpg', 1, 0),
+(15, 'Pinarello9', 'additional content', 4000, 'img/item3.jpg', 'img/small/item3.jpg', 1, 0),
+(16, 'Pinarello10', 'additional content', 4000, 'img/item4.jpg', 'img/small/item4.jpg', 1, 0),
+(17, 'Pinarello11', 'additional content', 4000, 'img/item5.jpg', 'img/small/item5.jpg', 1, 0),
+(18, 'Pinarello12', 'additional content', 4000, 'img/item6.jpg', 'img/small/item6.jpg', 1, 0),
+(19, 'Pinarello13', 'additional content', 4000, 'img/item1.jpg', 'img/small/item1.jpg', 1, 0),
+(20, 'Pinarello14', 'additional content', 4000, 'img/item2.jpg', 'img/small/item2.jpg', 1, 0),
+(21, 'Pinarello15', 'additional content', 4000, 'img/item3.jpg', 'img/small/item3.jpg', 1, 0),
+(22, 'Pinarello16', 'additional content', 4000, 'img/item4.jpg', 'img/small/item4.jpg', 1, 0),
+(23, 'Pinarello17', 'additional content', 4000, 'img/item5.jpg', 'img/small/item5.jpg', 1, 0),
+(24, 'Pinarello18', 'additional content', 4000, 'img/item6.jpg', 'img/small/item6.jpg', 1, 0),
+(25, 'Pinarello19', 'additional content', 4000, 'img/item1.jpg', 'img/small/item1.jpg', 1, 0),
+(26, 'Pinarello20', 'additional content', 4000, 'img/item2.jpg', 'img/small/item2.jpg', 1, 0),
+(27, 'Pinarello21', 'additional content', 4000, 'img/item3.jpg', 'img/small/item3.jpg', 1, 0),
+(28, 'Pinarello22', 'additional content', 4000, 'img/item4.jpg', 'img/small/item4.jpg', 1, 0),
+(29, 'Pinarello23', 'additional content', 4000, 'img/item5.jpg', 'img/small/item5.jpg', 1, 0),
+(30, 'Pinarello24', 'additional content', 4000, 'img/item6.jpg', 'img/small/item6.jpg', 1, 0),
+(31, 'Pinarello25', 'additional content', 4000, 'img/item1.jpg', 'img/small/item1.jpg', 1, 0),
+(32, 'Pinarello26', 'additional content', 4000, 'img/item2.jpg', 'img/small/item2.jpg', 1, 0),
+(33, 'Pinarello27', 'additional content', 4000, 'img/item3.jpg', 'img/small/item3.jpg', 1, 0),
+(34, 'Pinarello28', 'additional content', 4000, 'img/item4.jpg', 'img/small/item4.jpg', 1, 0),
+(35, 'Pinarello29', 'additional content', 4000, 'img/item5.jpg', 'img/small/item5.jpg', 1, 0),
+(36, 'Pinarello30', 'additional content', 4000, 'img/item6.jpg', 'img/small/item6.jpg', 1, 0),
+(37, 'Pinarello31', 'additional content', 4000, 'img/item1.jpg', 'img/small/item1.jpg', 1, 0),
+(38, 'Pinarello32', 'additional content', 4000, 'img/item2.jpg', 'img/small/item2.jpg', 1, 0),
+(39, 'Pinarello33', 'additional content', 4000, 'img/item3.jpg', 'img/small/item3.jpg', 1, 0),
+(40, 'Pinarello34', 'additional content', 4000, 'img/item4.jpg', 'img/small/item4.jpg', 1, 0),
+(41, 'Pinarello35', 'additional content', 4000, 'img/item5.jpg', 'img/small/item5.jpg', 1, 0),
+(42, 'Pinarello36', 'additional content', 4000, 'img/item6.jpg', 'img/small/item6.jpg', 1, 0);
 
 -- --------------------------------------------------------
 
@@ -100,6 +100,22 @@ CREATE TABLE `order_tab` (
   `count` int(11) NOT NULL,
   `date` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+--
+-- Дамп данных таблицы `order_tab`
+--
+
+INSERT INTO `order_tab` (`id`, `id_good`, `id_user`, `count`, `date`) VALUES
+(1, 3, 10, 1, '2018-10-20 09:53:47'),
+(2, 2, 10, 1, '2018-10-20 10:15:10'),
+(3, 2, 20, 1, '2018-10-20 11:32:56'),
+(4, 3, 20, 1, '2018-10-20 11:35:57'),
+(5, 1, 20, 1, '2018-10-20 11:42:34'),
+(6, 1, 20, 1, '2018-10-20 11:42:42'),
+(7, 1, 20, 1, '2018-10-20 11:45:43'),
+(8, 1, 20, 1, '2018-10-20 11:57:35'),
+(9, 1, 20, 1, '2018-10-20 12:02:48'),
+(10, 1, 20, 1, '2018-10-20 12:03:20');
 
 -- --------------------------------------------------------
 
@@ -134,7 +150,10 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`id`, `name`, `login`, `phone`, `email`, `password`) VALUES
-(5, 'nadya', 'mail@gmail.com', 2147483647, 'mail@mail.ru', 'aydand8578edf8458ce06fbc5bb76a58c5ca4');
+(5, 'nadya', 'mail@gmail.com', 2147483647, 'mail@mail.ru', 'aydand8578edf8458ce06fbc5bb76a58c5ca4'),
+(10, 'pavel', 'pavel', 1230000000, 'pavel@mk.ru', 'levapef1652b79c940145b600de7a2fe0288e'),
+(12, 'Admin', 'Admin', 1000000000, 'admin@adm.ru', 'nimdAe3afed0047b08059d0fada10f400c1e5'),
+(20, 'ivan', 'ivan', 2147483647, 'ivan@iv.ru', 'navi2c42e5cf1cdbafea04ed267018ef1511');
 
 --
 -- Индексы сохранённых таблиц
@@ -170,8 +189,6 @@ ALTER TABLE `review`
 ALTER TABLE `user`
   ADD PRIMARY KEY (`id`),
   ADD UNIQUE KEY `id` (`id`),
-  ADD UNIQUE KEY `phone` (`phone`),
-  ADD UNIQUE KEY `email` (`email`),
   ADD UNIQUE KEY `login` (`login`);
 
 --
@@ -188,7 +205,7 @@ ALTER TABLE `good`
 -- AUTO_INCREMENT для таблицы `order_tab`
 --
 ALTER TABLE `order_tab`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=11;
 
 --
 -- AUTO_INCREMENT для таблицы `review`
@@ -200,7 +217,7 @@ ALTER TABLE `review`
 -- AUTO_INCREMENT для таблицы `user`
 --
 ALTER TABLE `user`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=21;
 
 --
 -- Ограничения внешнего ключа сохраненных таблиц
